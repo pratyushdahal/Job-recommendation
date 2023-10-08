@@ -1,0 +1,11 @@
+.card {
+    background-color: aliceblue;
+    width: 150%;
+}
+
+.viewjobcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    margin: 41px 74px;
+}
